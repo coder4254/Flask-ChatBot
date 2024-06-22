@@ -70,3 +70,4 @@ Werkzeug==3.0.3
 yarl==1.9.4
 googletrans
 sentence-transformers
+python-docx
